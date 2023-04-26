@@ -1,0 +1,17 @@
+bc-3.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.116945
+bc-5.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.1565
+bfs-14.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.38563
+pr-10.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.0325457
+pr-14.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.032329
+sssp-10.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.255041
+cadical-high-60K-1227B.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.18216
+cadical-high-60K-134B.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.175303
+kissat-inc-high-30K-1802B.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.309246
+client_001.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.908371
+client_008.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.643297
+server_018.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.396085
+server_025.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.354191
+400.perlbench-41B.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.869774
+403.gcc-17B.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.385769
+410.bwaves-2097B.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 1.50916
+429.mcf-192B.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.0769852

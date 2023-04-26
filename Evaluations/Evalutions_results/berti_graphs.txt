@@ -1,0 +1,17 @@
+bc-3.trace.gz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.142638
+bc-5.trace.gz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.166251
+bfs-14.trace.gz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.364579
+pr-10.trace.gz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.0371956
+pr-14.trace.gz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.0367301
+sssp-10.trace.gz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.308278
+cadical-1227B.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.188943
+cadical-134B.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.178438
+kissat-1802B.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.314213
+client_001.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.934862
+client_008.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.714264
+server_018.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.382354
+server_025.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.390201
+400-41B.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.869957
+403.gcc-17B.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.401581
+410.2097B.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 1.49405
+429.mcf-192B.champsimtrace.xz-bimodal-no-berti-berti-berti-lru-1core.txt: 0.0598776

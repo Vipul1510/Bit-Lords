@@ -1,0 +1,17 @@
+bc-3.trace.gz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.135668
+bc-5.trace.gz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.161297
+bfs-14.trace.gz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.335034
+pr-10.trace.gz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.0353214
+pr-14.trace.gz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.0350051
+sssp-10.trace.gz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.290225
+cadical-high-60K-1227B.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.177744
+cadical-high-60K-134B.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.175597
+kissat-inc-high-30K-1802B.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.310811
+client_001.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.839809
+client_008.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.694039
+server_018.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.338408
+server_025.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.407462
+400.perlbench-41B.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.866015
+403.gcc-17B.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.376683
+410.bwaves-2097B.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.935063
+429.mcf-192B.champsimtrace.xz-bimodal-no-next_line-next_line-next_line-lru-1core.txt: 0.0807459
