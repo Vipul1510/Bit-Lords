@@ -1,0 +1,3 @@
+cadical-1227B.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.186064
+cadical-134B.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.178506
+kissat-1802B.champsimtrace.xz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.307265
