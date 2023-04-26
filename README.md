@@ -30,4 +30,3 @@ Each enhancement folder contains results of changed IPCP code using traces given
 
 ### References :
 - [IPCP paper](https://www.cse.iitk.ac.in/users/biswap/IPCP_ISCA20.pdf)
-- [IPCP presentation](https://dpc3.compas.cs.stonybrook.edu/slides/bouquet.pdf)
