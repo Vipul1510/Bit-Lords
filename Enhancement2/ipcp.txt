@@ -1,0 +1,6 @@
+bc-3.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.116945
+bc-5.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.1565
+bfs-14.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.38563
+pr-10.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.0325457
+pr-14.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.032329
+sssp-10.trace.gz-bimodal-no-ipcp-ipcp-ipcp-lru-1core.txt: 0.255041

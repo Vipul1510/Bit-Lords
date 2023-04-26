@@ -1,0 +1,6 @@
+bc-3.trace.gz-bimodal-no-no-no-no-lru-1core.txt: 0.132917
+bc-5.trace.gz-bimodal-no-no-no-no-lru-1core.txt: 0.170698
+bfs-14.trace.gz-bimodal-no-no-no-no-lru-1core.txt: 0.19039
+pr-10.trace.gz-bimodal-no-no-no-no-lru-1core.txt: 0.0362479
+pr-14.trace.gz-bimodal-no-no-no-no-lru-1core.txt: 0.0360006
+sssp-10.trace.gz-bimodal-no-no-no-no-lru-1core.txt: 0.255953
