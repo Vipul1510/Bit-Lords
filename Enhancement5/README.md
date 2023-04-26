@@ -1,4 +1,4 @@
-# Nl threshold 5 degree 4
+# Changing threshold and degree
 In this enhancement the nl threshold and degree is changed to 5,4 from 15,3 this gave an enhancement of 1.7% is observed in sat traces
 
 The traces used are 
